@@ -1,0 +1,17 @@
+# 이클립스/톰캣 관련
+.classpath
+.project
+.settings/
+target/
+bin/
+build/
+*.log
+
+# IDE 임시파일
+*.iml
+.idea/
+*.swp
+.DS_Store
+
+# 서버 관련
+tomcat/
